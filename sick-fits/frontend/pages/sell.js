@@ -1,7 +1,7 @@
 const Sell = props => (
   <div>
-    <p>Hey!</p>
+    <p>Hey sell!</p>
   </div>
-);
+)
 
-export default Sell;
+export default Sell
